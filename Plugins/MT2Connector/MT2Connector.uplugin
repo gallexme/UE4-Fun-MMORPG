@@ -1,0 +1,12 @@
+{
+    "FileVersion" : 3,
+    "Category" : "MT2.Connector",
+    "CreatedBy" : "Fabi(lolor2)",
+	"Modules" :
+	[
+		{
+			"Name" : "MT2Connector",
+			"Type" : "Runtime"
+		}
+	]
+}
